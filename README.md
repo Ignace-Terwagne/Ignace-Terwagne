@@ -1,7 +1,19 @@
  - 🔰 started : 2017 (11 years old)
- - 🛠 programming languages I know : HTML+CSS, Python
+ - 🛠 programming languages I know :
+
+
+|  LANGUAGE | EXPERIENCE |
+|:---------:|:----------:|   
+| HTML      | :star::star::star:|
+| CSS       | :star::star::star:|
+| JS        | :star::star::star:|
+| ReactJS   | :star::star::star:|
+| React Native | :star::star:|
+| Python | :star::star::star::star::star: |
+
+
  - 👨‍💻 programmer level : amateur (according to [this][1] list)
- - 📚 favourite library : kivy/kivymd and requests
+ - 📚 favourite library : requests (python) and sqlalchemy (python)
  - 💻 IDE : Visual Studio Code
  - 🏡 home country: Belgium
  - 🤑 dream job: software developer
