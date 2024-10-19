@@ -1,4 +1,5 @@
- - 🔰 started : 2017 (11 years old)
+ - 🔰 started : 2017
+ - [![wakatime](https://wakatime.com/badge/user/70a9d5e2-fdf9-4728-b30b-f1f36e2a02f5.svg)](https://wakatime.com/@70a9d5e2-fdf9-4728-b30b-f1f36e2a02f5)
  - 🛠 programming languages I know :
 
 
